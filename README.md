@@ -2,7 +2,9 @@
 
 เกมแนว Vampire Survivors / horde survival บนมือถือ — สู้ฝูงศัตรู, เก็บอาวุธ, อัพเกรดตอนเลเวลอัพ, ล่าบอส
 
-**เล่นเลย:** [nongtum-bit.github.io/horde-surge](https://nongtum-bit.github.io/horde-surge/)
+**เล่นเลย:** [nongtum-bit.github.io/bomberman/horde-surge](https://nongtum-bit.github.io/bomberman/horde-surge/)
+
+อยู่ใน Game Hub ด้วย: [nongtum-bit.github.io/bomberman](https://nongtum-bit.github.io/bomberman/)
 
 ## วิธีเล่น
 
@@ -21,4 +23,3 @@
 
 เซฟเกมอยู่ในเบราว์เซอร์ (`localStorage`) ไม่หายเมื่อรีเฟรช
 
-ถ้าเปิดลิงก์แล้วขึ้น 404 ให้ไปที่ repo → **Settings → Pages → Deploy from branch `main` / root**
